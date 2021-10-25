@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hieuvts
+- 👋 Hi, I’m Hieu Pham
 - 👀 I’m interested in reading book, watching movies,...
 - 🌱 I’m currently learning Javascript, especially ReactJS
-- 📫 Email: intelz.hieu@gmail.com Phone: +84 359 545 405
+- 📫 Email: intelz.hieu@gmail.com 
+- 📞 Phone: +84 359 545 405
 
 <!---
 hieuvts/hieuvts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
