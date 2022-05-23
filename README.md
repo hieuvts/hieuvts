@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hieu Pham
-- 🌱 I’m currently learning Javascript, especially ReactJS
+- 🌱 I’m currently learning to write 'Hello World' in Javascript
 - 👀 I’m interested in reading book, watching movies,...
 - 📫 Email: intelz.hieu@gmail.com 
 
